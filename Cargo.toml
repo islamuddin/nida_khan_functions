@@ -1,0 +1,12 @@
+[package]
+name = "nida_khan_functions"
+version = "0.1.0"
+authors = ["idkhan <uddinislam46@gmail.com>"]
+edition = "2018"
+description = "the library shows you hobbies list"
+license ="MIT"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
